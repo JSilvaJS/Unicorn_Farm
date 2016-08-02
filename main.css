@@ -15,6 +15,19 @@
     display: inline-flex;
 }
 
+h1 {
+	position: absolute;
+    left: 20%;
+    top: 10%;
+    background: white;
+    border-radius: 7px;
+    padding: 20px;
+    border: 5px solid #e21b1b;
+    box-shadow: 0px 0px 35px grey;
+    font-size: 38px;
+    font-family: 'Farsan', cursive;
+}
+
 .location_one {
 	background-image: url(http://i.imgur.com/Wl0VK24.png);
 	width: 425px;
@@ -44,14 +57,14 @@
 
 .unicorn {
 	background-image: url(http://i.imgur.com/ZASoMNq.png);
-    width: 150px;
+    width: 130px;
     height: 150px;
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 2;
     position: absolute;
-    top: 520px;
-    left: 160px;
+    top: 488px;
+    left: 165px;
 }
 
 .farmer {
@@ -63,6 +76,6 @@
     display: block;
     z-index: 0;
     position: absolute;
-	top: 570px;
+    top: 530px;
     left: 50px;
 }
