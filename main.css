@@ -1,0 +1,45 @@
+.main_bg {
+	background: #006600;
+	width: 100%;
+	height: 100vh;
+}
+
+.location_one {
+	background-image: url(http://i.imgur.com/Wl0VK24.png);
+	width: 425px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    position: relative;
+    left: 70%;
+}
+
+.location_two {
+	background-image: url(http://i.imgur.com/MrgCXJk.png);
+	width: 425px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: auto;
+}
+
+.location_three {
+	background-image: url(http://i.imgur.com/ngyp5NE.png);
+	width: 425px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.unicorn {
+	background-image: url(http://i.imgur.com/ZASoMNq.png);
+	width: 425px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
